@@ -18,10 +18,13 @@ La peine des deux condamnés fut *ridiculement surfaite* à cause de l'*arroganc
 Cette punition ne pu être appliquée à cause de l'*intervention* de mystèrieux *libérateurs de condamnés* judiciaires. 
 ## Organisation
 <!--organisation en parties et chapitres proposé par Felecarp-->
-* Partie 1: Le réveil des fous (correspond du tout début au départ de la Terre) 
-* Chapitre 1: Scénario d'introduction 
-* Chapitre 2: Le fou de l'IMSS 
-* Chapitre 3: Chair à canon 
-* Chapitre 4: La fuite 
-* Chapitre 5: Le premier jugement 
-* Partie 2: Regain de ressources (correspond au péripéties passés sur la planète minière) 
+Voici comment les parties  chapitres s'organisent:
+- Partie 1: Le réveil des fous (correspond du tout début au départ de la Terre).
+  - Chapitre 1: Scénario d'introduction. 
+  -  Chapitre 2: Le fou de l'IMSS. 
+  -  Chapitre 3: Chair à canon. 
+  -  Chapitre 4: La fuite. 
+  - Chapitre 5: Le premier jugement.
+- Partie 2: Regain de ressources (correspond au péripéties passés sur la planète minière).
+
+L'organisation est permanente va sûrement lors de l'écriture.
