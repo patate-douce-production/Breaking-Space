@@ -2,7 +2,7 @@
 Centre de redaction pour un récit futuriste
 ## Résumé
 ### Partie 1
-Dans un *lointain futur*, où les **humains** vivent sur *différentes planètes* sous la menace d'une *espèce extraterrestre destructrice* du nom d'**Acra**, deux personnages, **Petafin** et **Youkama**, sont projetés *hors de leur routine quotidienne* pour vivre de *pénibles aventures*.
+En l'an 2382, les **humains** vivent sur *différentes planètes* sous la menace d'une *espèce extraterrestre destructrice* du nom d'**Acra**, deux personnages, **Petafin** et **Youkama**, sont projetés *hors de leur routine quotidienne* pour vivre de *pénibles aventures*.
 
  
 **Youkama** est un *pilote de vaisseau spacial* R35M. 
